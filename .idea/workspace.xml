@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db7a5b05-f86a-454f-9f64-4a5d03670304" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/laravel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session13/tu-dien-don-gian/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session13/tu-dien-don-gian/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session13/tu-dien-don-gian/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session13/tu-dien-don-gian/.idea/tu-dien-don-gian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session13/tu-dien-don-gian/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session13/tu-dien-don-gian/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session13/tu-dien-don-gian/resources/views/dictionary.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session13/tu-dien-don-gian/resources/views/result.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/demo/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/demo/resources/views/calculator.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/demo/resources/views/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/demo/resources/views/result.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/su-dung-route-co-ban/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/su-dung-route-co-ban/resources/views/user.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/task_management1/resources/views/modules/customer/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/taskmanagerment2/resources/views/modules/customer/deleteCustomer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/taskmanagerment2/resources/views/modules/customer/editCustomer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/taskmanagerment2/resources/views/modules/customer/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/taskmanagerment2/resources/views/modules/customer/showCustomer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session14/timezone/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/calculator/.idea/calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/calculator/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/calculator/resources/views/calculator.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/calculator/resources/views/result.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/email-validation/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/task-management-4/resources/views/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/task-management-4/resources/views/delete.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/task-management-4/resources/views/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/task-management-4/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session15/task-management-4/resources/views/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session16/tao-layout-voi-blade/resources/views/tasks/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session16/ung-dung-quan-ly-khach-hang-p2/resources/views/customers/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/.idea/session17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Blog-S17/public/css/app2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Blog-S17/resources/views/blogs/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Blog-S17/resources/views/blogs/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Blog-S17/resources/views/blogs/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Blog-S17/resources/views/blogs/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/.idea/Eloquent-Quan-ly-khach-hang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/resources/views/customers/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/resources/views/customers/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/resources/views/customers/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/resources/views/customers/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Quan-ly-khach-hang/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Task-Management/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Task-Management/resources/views/tasks/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Task-Management/resources/views/tasks/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Task-Management/resources/views/tasks/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session17/Eloquent-Task-Management/resources/views/tasks/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/.idea/session18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/Quan-ly-tinh/resources/views/cities/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/Quan-ly-tinh/resources/views/cities/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/Quan-ly-tinh/resources/views/cities/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/Quan-ly-tinh/resources/views/customers/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/Quan-ly-tinh/resources/views/customers/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/Quan-ly-tinh/resources/views/customers/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session18/Quan-ly-tinh/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Validation-Customer-Management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/customers/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/customers/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/customers/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/customers/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Validation-form-register/resources/views/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/.idea/session11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/controller/BookController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/model/Book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/model/BookDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/model/DBConnection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/view/addStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/view/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/view/deleteStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/view/editStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../php/session11/BT-quan-ly-thu-vien/view/listStudent.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_05_08_040448_create_customers_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/customers/edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/customers/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="34" />
+              <folding>
+                <element signature="e#260#279#0#HTML" expanded="true" />
+                <element signature="e#1491#1508#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/FormExampleRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/customers/list.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1080" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CustomerController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="628">
+              <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+              <folding>
+                <element signature="e#40#57#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_05_08_040448_create_customers_table.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/customers/create.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CustomerController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/FormExampleRequest.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="388" />
+    <option name="y" value="167" />
+    <option name="width" value="2327" />
+    <option name="height" value="1785" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Validation-Customer-Management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Validation-Customer-Management" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="customers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../session18" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db7a5b05-f86a-454f-9f64-4a5d03670304" name="Default Changelist" comment="" />
+      <created>1557287604201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557287604201</updated>
+      <workItem from="1557287605321" duration="6373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6373000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="134" y="35" width="2602" height="1789" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22235481" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.328956" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_05_08_040448_create_customers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/customers/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/customers/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/customers/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="e#260#279#0#HTML" expanded="true" />
+            <element signature="e#1491#1508#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CustomerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+          <folding>
+            <element signature="e#40#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/FormExampleRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
